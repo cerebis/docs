@@ -50,8 +50,8 @@ Bringing it all together, dynamic allocation is the on-demand provision of resou
 
 ####NeCTAR Cloud
 
-[Dashboard](https://dashboard.rc.nectar.org.au/)
-[Documentation site](https://support.rc.nectar.org.au/docs/)
+- [Dashboard](https://dashboard.rc.nectar.org.au/)
+- [Documentation site](https://support.rc.nectar.org.au/docs/)
 
 ***Image Flavours***
 
